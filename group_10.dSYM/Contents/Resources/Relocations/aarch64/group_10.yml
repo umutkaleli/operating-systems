@@ -1,0 +1,21 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/umutkalelioglu/Desktop/cse 3.sınıf/CSE303/homeworks/group_10"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _initQueue, symObjAddr: 0x0, symBinAddr: 0x100002C68, symSize: 0x20 }
+  - { offsetInCU: 0x140, offset: 0x140, size: 0x8, addend: 0x0, symName: _initQueue, symObjAddr: 0x0, symBinAddr: 0x100002C68, symSize: 0x20 }
+  - { offsetInCU: 0x164, offset: 0x164, size: 0x8, addend: 0x0, symName: _removeElement, symObjAddr: 0x20, symBinAddr: 0x100002C88, symSize: 0xBC }
+  - { offsetInCU: 0x1C0, offset: 0x1C0, size: 0x8, addend: 0x0, symName: _isEmpty, symObjAddr: 0xDC, symBinAddr: 0x100002D44, symSize: 0x24 }
+  - { offsetInCU: 0x1E8, offset: 0x1E8, size: 0x8, addend: 0x0, symName: _enqueue, symObjAddr: 0x100, symBinAddr: 0x100002D68, symSize: 0xC4 }
+  - { offsetInCU: 0x229, offset: 0x229, size: 0x8, addend: 0x0, symName: _dequeue, symObjAddr: 0x1C4, symBinAddr: 0x100002E2C, symSize: 0xC0 }
+  - { offsetInCU: 0x26E, offset: 0x26E, size: 0x8, addend: 0x0, symName: _front, symObjAddr: 0x284, symBinAddr: 0x100002EEC, symSize: 0x7C }
+  - { offsetInCU: 0x296, offset: 0x296, size: 0x8, addend: 0x0, symName: _initProcess, symObjAddr: 0x300, symBinAddr: 0x100002F68, symSize: 0x258 }
+  - { offsetInCU: 0x319, offset: 0x319, size: 0x8, addend: 0x0, symName: _countWaitingTime, symObjAddr: 0x558, symBinAddr: 0x1000031C0, symSize: 0x34 }
+  - { offsetInCU: 0x341, offset: 0x341, size: 0x8, addend: 0x0, symName: _setReturnTime, symObjAddr: 0x58C, symBinAddr: 0x1000031F4, symSize: 0x20 }
+  - { offsetInCU: 0x373, offset: 0x373, size: 0x8, addend: 0x0, symName: _FCFS, symObjAddr: 0x5AC, symBinAddr: 0x100003214, symSize: 0x490 }
+  - { offsetInCU: 0x476, offset: 0x476, size: 0x8, addend: 0x0, symName: _setTurnAroundTime, symObjAddr: 0xA3C, symBinAddr: 0x1000036A4, symSize: 0xA4 }
+  - { offsetInCU: 0x4D8, offset: 0x4D8, size: 0x8, addend: 0x0, symName: _formatLines, symObjAddr: 0xAE0, symBinAddr: 0x100003748, symSize: 0x1FC }
+  - { offsetInCU: 0x56C, offset: 0x56C, size: 0x8, addend: 0x0, symName: _calculateAverages, symObjAddr: 0xCDC, symBinAddr: 0x100003944, symSize: 0x124 }
+  - { offsetInCU: 0x5FA, offset: 0x5FA, size: 0x8, addend: 0x0, symName: _setBurstSum, symObjAddr: 0xE00, symBinAddr: 0x100003A68, symSize: 0xB4 }
+  - { offsetInCU: 0x669, offset: 0x669, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xEB4, symBinAddr: 0x100003B1C, symSize: 0x2A0 }
+...
